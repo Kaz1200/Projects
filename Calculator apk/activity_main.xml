@@ -1,0 +1,222 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" 
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/tvDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="50sp"
+        android:layout_margin="5dp"
+        android:gravity="end"
+        android:background="@android:color/darker_gray"
+        android:text="@string/btnZero" />
+<LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="horizontal" 
+    >
+    <Button
+        android:id="@+id/Ce"
+        android:layout_height="125dp"
+        android:layout_width="100dp"
+        android:textSize="50sp"
+        android:text="@string/btnCe"
+        android:layout_margin="5dp"
+        />
+          <Button
+        android:id="@+id/btnC"
+        android:layout_height="125dp"
+        android:layout_width="100dp"
+        android:textSize="50sp"
+        android:text="@string/btnC"
+        android:layout_margin="5dp"
+        
+        />
+           <Button
+        android:id="@+id/btnDash"
+        android:layout_height="125dp"
+        android:layout_width="100dp"
+        android:textSize="50sp"
+        android:text="@string/btnDash"
+        android:layout_margin="5dp"
+        
+        />
+            <Button
+        android:id="@+id/btnDiv"
+        android:layout_height="125dp"
+        android:layout_width="fill_parent"
+        android:textSize="50sp"
+        android:text="@string/btnDiv"
+        android:layout_margin="5dp"
+        
+        />
+             </LinearLayout>
+             <!>2nd layer</!>
+      <LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="horizontal" 
+    >
+    <Button
+        android:id="@+id/btnSeven"
+        android:layout_height="125dp"
+        android:layout_width="100dp"
+        android:textSize="50sp"
+        android:text="@string/btnSeven"
+        android:layout_margin="5dp"
+        />
+          <Button
+        android:id="@+id/btnEight"
+        android:layout_height="125dp"
+        android:layout_width="100dp"
+        android:textSize="50sp"
+        android:text="@string/btnEight"
+        android:layout_margin="5dp"
+        
+        />
+           <Button
+        android:id="@+id/btnNine"
+        android:layout_height="125dp"
+        android:layout_width="100dp"
+        android:textSize="50sp"
+        android:text="@string/btnNine"
+        android:layout_margin="5dp"
+        
+        />
+            <Button
+        android:id="@+id/btnMul"
+        android:layout_height="125dp"
+        android:layout_width="fill_parent"
+        android:textSize="50sp"
+        android:text="@string/btnMul"
+        android:layout_margin="5dp"
+        
+        />
+      
+    </LinearLayout>
+    <!>3rd layer</!>
+        <LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="horizontal" 
+    >
+    <Button
+        android:id="@+id/btnFour"
+        android:layout_height="125dp"
+        android:layout_width="100dp"
+        android:textSize="50sp"
+        android:text="@string/btnFour"
+        android:layout_margin="5dp"
+        />
+          <Button
+        android:id="@+id/btnFive"
+        android:layout_height="125dp"
+        android:layout_width="100dp"
+        android:textSize="50sp"
+        android:text="@string/btnFive"
+        android:layout_margin="5dp"
+        
+        />
+           <Button
+        android:id="@+id/btnSix"
+        android:layout_height="125dp"
+        android:layout_width="100dp"
+        android:textSize="50sp"
+        android:text="@string/btnSix"
+        android:layout_margin="5dp"
+        
+        />
+            <Button
+        android:id="@+id/btnSub"
+        android:layout_height="125dp"
+        android:layout_width="fill_parent"
+        android:textSize="50sp"
+        android:text="@string/btnSub"
+        android:layout_margin="5dp"
+        
+        />
+      
+    </LinearLayout>
+    <!>layer 4</!>
+        <LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="horizontal" 
+    >
+    <Button
+        android:id="@+id/btnOne"
+        android:layout_height="125dp"
+        android:layout_width="100dp"
+        android:textSize="50sp"
+        android:text="@string/btnOne"
+        android:layout_margin="5dp"
+        />
+          <Button
+        android:id="@+id/btnTwo"
+        android:layout_height="125dp"
+        android:layout_width="100dp"
+        android:textSize="50sp"
+        android:text="@string/btnTwo"
+        android:layout_margin="5dp"
+        
+        />
+           <Button
+        android:id="@+id/btnThree"
+        android:layout_height="125dp"
+        android:layout_width="100dp"
+        android:textSize="50sp"
+        android:text="@string/btnThree"
+        android:layout_margin="5dp"
+        
+        />
+            <Button
+        android:id="@+id/btnAdd"
+        android:layout_height="125dp"
+        android:layout_width="fill_parent"
+        android:textSize="50sp"
+        android:text="@string/btnAdd"
+        android:layout_margin="5dp"
+        
+        />
+      
+    </LinearLayout>
+    <!>Layer 5</!>
+           <LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="horizontal" 
+    >
+    <Button
+        android:id="@+id/btnZero"
+        android:layout_height="125dp"
+        android:layout_width="100dp"
+        android:textSize="50sp"
+        android:text="@string/btnZero"
+        android:layout_margin="5dp"
+        />
+          <Button
+        android:id="@+id/btnDot"
+        android:layout_height="125dp"
+        android:layout_width="100dp"
+        android:textSize="50sp"
+        android:text="@string/btnDot"
+        android:layout_margin="5dp"
+        
+        />
+
+          <Button
+              android:id="@+id/btnEqual"
+              android:layout_width="fill_parent"
+              android:layout_height="125dp"
+              android:layout_margin="5dp"
+              android:text="@string/btnEqual"
+              android:textSize="50sp" />
+      
+    </LinearLayout>
+    
+</LinearLayout>
