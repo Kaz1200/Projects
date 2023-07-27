@@ -1,0 +1,24 @@
+Type of Trip: 
+Round trip
+Current location: 
+Manila
+Destination: 
+Iloilo
+Date of departure: 
+01 14 2022
+Date of return: 
+01 29 2022
+Count of senior citizen, regular, child, infant. 
+Senior Citizen: 0
+Regular: 1
+Child: 0
+Infant: 0
+Time of scheduled flight: 11:25
+Fare Class: Business Class
+Package: Fly with Baggage + Meal
+Baggage Weight: 35 kg
+Contact Number: 9564888062
+Alternative Contact Number: 9295711229
+Email: chris20vitto@gmail.com
+Way of Payment: PayPal
+Total Cost: 15308.00

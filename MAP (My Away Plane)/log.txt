@@ -1,0 +1,203 @@
+Log Emptied!
+Tue Jan 12 08:29:40 2021
+
+
+Type of Trip: 
+One-way Flight
+Current location: 
+Mactan-Cebu
+Destination: 
+Manila
+Date of departure: 
+01 20 2021
+Date of return: 
+01 29 2021
+Count of senior citizen, adult, child, infant. 
+Senior Citizen: 0
+Adult: 1
+Child: 0
+Infant: 0
+Time of scheduled flight: 07:00
+Package: Fly with Baggage
+Baggage Weight: 5 kg
+Type of Trip: 
+One-way Flight
+Current location: 
+Manila
+Destination: 
+Iloilo
+Date of departure: 
+01 20 2021
+Date of return: 
+01 20 2021
+Count of senior citizen, adult, child, infant. 
+Senior Citizen: 1
+Adult: 1
+Child: 0
+Infant: 0
+Time of scheduled flight: 07:15
+Package: Fly with Baggage
+Baggage Weight: 5 kg
+Type of Trip: 
+Round trip
+Current location: 
+Iloilo
+Destination: 
+Manila
+Date of departure: 
+01 20 2021
+Date of return: 
+01 20 2021
+Count of senior citizen, adult, child, infant. 
+Senior Citizen: 3
+Adult: 10
+Child: 5
+Infant: 0
+Child is seated next to me.
+Time of scheduled flight: 08:00
+Package: Fly with Baggage
+Baggage Weight: 5 kg
+Type of Trip: 
+Round trip
+Current location: 
+Clark
+Destination: 
+Davao
+Date of departure: 
+01 20 2021
+Date of return: 
+01 19 2021
+Count of senior citizen, adult, child, infant. 
+Senior Citizen: 0
+Adult: 1
+Child: 0
+Infant: 0
+Time of scheduled flight: 05:00
+Package: Fly with Baggage + Meal
+Baggage Weight: 35 kg
+Type of Trip: 
+Round trip
+Current location: 
+Manila
+Destination: 
+Iloilo
+Date of departure: 
+01 12 2021
+Date of return: 
+01 12 2021
+Count of senior citizen, adult, child, infant. 
+Senior Citizen: 0
+Adult: 0
+Child: 0
+Infant: 0
+Time of scheduled flight: 00:00
+Package: Fly with Baggage
+Baggage Weight: 5 kg
+Type of Trip: 
+Round trip
+Current location: 
+Manila
+Destination: 
+Mactan-Cebu
+Date of departure: 
+01 12 2021
+Date of return: 
+01 20 2021
+Count of senior citizen, adult, child, infant. 
+Senior Citizen: 0
+Adult: 1
+Child: 0
+Infant: 0
+Time of scheduled flight: 01:00
+Package: Fly with Baggage
+Baggage Weight: 5 kg
+Type of Trip: 
+Round trip
+Current location: 
+Manila
+Destination: 
+Davao
+Date of departure: 
+01 20 2021
+Date of return: 
+01 29 2021
+Count of senior citizen, adult, child, infant. 
+Senior Citizen: 0
+Adult: 1
+Child: 0
+Infant: 0
+Time of scheduled flight: 15:45
+Package: Fly with Baggage
+Baggage Weight: 5 kg
+Type of Trip: 
+One-way Flight
+Current location: 
+Manila
+Destination: 
+Davao
+Date of departure: 
+01 14 2021
+Date of return: 
+01 20 2021
+Count of senior citizen, adult, child, infant. 
+Senior Citizen: 0
+Adult: 1
+Child: 0
+Infant: 0
+Time of scheduled flight: 14:15
+Package: Fly with Baggage + Meal
+Baggage Weight: 20 kg
+Type of Trip: 
+One-way Flight
+Current location: 
+Manila
+Destination: 
+Davao
+Count of senior citizen, adult, child, infant. 
+Senior Citizen: 0
+Adult: 0
+Child: 0
+Infant: 0
+Time of scheduled flight: 00:00
+Package: Fly Only
+Type of Trip: 
+One-way Flight
+Current location: 
+Manila
+Destination: 
+Davao
+Count of senior citizen, adult, child, infant. 
+Senior Citizen: 0
+Adult: 0
+Child: 0
+Infant: 0
+Time of scheduled flight: 00:00
+Package: Fly Only
+Type of Trip: 
+One-way Flight
+Current location: 
+Manila
+Destination: 
+Iloilo
+Count of senior citizen, adult, child, infant. 
+Senior Citizen: 0
+Adult: 1
+Child: 0
+Infant: 0
+Time of scheduled flight: 01:23
+Package: Fly Only
+Type of Trip: 
+One-way Flight
+Current location: 
+Manila
+Destination: 
+Davao
+Count of senior citizen, adult, child, infant. 
+Senior Citizen: 0
+Adult: 1
+Child: 0
+Infant: 0
+Time of scheduled flight: 00:00
+Package: Fly Only
+Package: Fly with Baggage
+Baggage Weight: 5 kg
